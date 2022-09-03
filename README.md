@@ -9,3 +9,7 @@ Just another test here
 <b>Name: <a href ="www.cnn.com"> Grentina's Name Origin <a/></b>
 
 Just testing 
+
+## Local Development 
+
+1. Open index.html in your browser
